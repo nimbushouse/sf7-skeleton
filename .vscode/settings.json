@@ -1,0 +1,5 @@
+{
+  "vite.devCommand": "npm run dev",
+  "vite.autoStart": false,
+  "browse-lite.chromeExecutable": "/usr/bin/google-chrome"
+}
